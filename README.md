@@ -2,12 +2,12 @@
 
 ## Brain Modules
 
-* message queue
-
 ## Expert Modules
-playing go game
 
 ## Visual Modules
+
+### Sensors
+eye
 
 ## Auditory Modules
 
